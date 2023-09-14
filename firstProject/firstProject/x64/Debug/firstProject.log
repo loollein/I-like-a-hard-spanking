@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\ProjectC\firstProject\firstProject\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  firstProject.vcxproj -> D:\ProjectC\firstProject\x64\Debug\firstProject.exe
